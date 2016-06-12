@@ -1,0 +1,14 @@
+{
+  "name": "gulp-xslt-transform",
+  "version": "0.1.0",
+  "description": "Simple gulp workaround for debugging xslt-transformation",
+  "scripts": {
+    "start": "gulp watch"
+  },
+  "author": "ITer",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-xslt": "^2.0.0"
+  }
+}
